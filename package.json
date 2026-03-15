@@ -1,5 +1,5 @@
 {
-  "name": "gs-loc",
+  "name": "gs-codecount",
   "version": "1.0.0",
   "description": "A fast CLI tool to count lines of code by language",
   "repository": {
@@ -7,15 +7,18 @@
     "url": "https://github.com/GeetaSystems/gs-codecount.git"
   },
   "bin": {
-    "gs-loc": "./bin/cli.js"
+    "gs-codecount": "./bin/cli.js"
   },
   "type": "module",
   "keywords": [
+    "gs-codecount"
     "loc",
     "line counter",
     "code metrics",
     "cli",
-    "developer tools"
+    "developer tools",
+    "code count 152",
+    "hy152"
   ],
   "author": "Geeta Systems",
   "license": "MIT",
