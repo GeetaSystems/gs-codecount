@@ -11,7 +11,7 @@
   },
   "type": "module",
   "keywords": [
-    "gs-codecount"
+    "gs-codecount",
     "loc",
     "line counter",
     "code metrics",
