@@ -1,4 +1,5 @@
 # gs-codecount
+<img width="1899" height="877" alt="image" src="https://github.com/user-attachments/assets/f2115961-b719-4678-bb9b-312e3cd12fd6" />
 
 A simple and fast CLI tool to count **Lines of Code (LOC)** in a project by language.
 
