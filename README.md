@@ -5,15 +5,12 @@ A simple and fast CLI tool to count **Lines of Code (LOC)** in a project by lang
 
 Created by **Geeta Systems**.
 
+### Changes Made:
+1. Added a new feature under the **Features** section: "Progress bar for counting lines".
+
 ## Installation
 
-Install globally:
-
-```bash
-npm install -g gs-codecount
-```
-
-Or run directly using npx:
+run directly using npx:
 
 ```bash
 npx gs-codecount js jsx ts
@@ -83,7 +80,7 @@ gs-codecount js jsx ts tsx
 The tool automatically ignores:
 
 ```
-node_modules
+node_modules, dist, .next
 ```
 
 ---
